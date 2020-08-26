@@ -29,7 +29,6 @@
 <img align="left" title="CSS" alt="CSS" width="44px" src="https://user-images.githubusercontent.com/54556157/90982232-86442e80-e56e-11ea-998f-d47bde270a93.png" />
 <img align="left" title="SASS" alt="SASS" width="44px" src="https://user-images.githubusercontent.com/54556157/90982238-94924a80-e56e-11ea-9b95-3dc244b12583.png" />
 <img align="left" title="Javascript" alt="Javascript" width="44px" src="https://user-images.githubusercontent.com/54556157/90980600-1da48400-e565-11ea-995c-d197dc43244d.png"/>
-<img align="left" title="Node JS" alt="Node JS" width="44px" src="https://user-images.githubusercontent.com/54556157/90980927-da4b1500-e566-11ea-98f2-6d56fff480e0.png" />
 <img align="left" title="Vue" alt="Vue" width="44px" src="https://user-images.githubusercontent.com/54556157/90980240-e3d27e00-e562-11ea-9444-ea2ad9315ee7.png" />
 
 <br />
@@ -37,6 +36,7 @@
 
 #### Back-end:
 
+<img align="left" title="Node JS" alt="Node JS" width="44px" src="https://user-images.githubusercontent.com/54556157/90980927-da4b1500-e566-11ea-98f2-6d56fff480e0.png" />
 <img align="left" title="C#" alt="C#" width="44px" src="https://user-images.githubusercontent.com/54556157/90980750-06b26180-e566-11ea-9c05-dcc8a6554e2a.png" />
 <img align="left" title=".Net Core" alt=".Net Core" width="44px" src="https://user-images.githubusercontent.com/54556157/90980455-306a8900-e564-11ea-866a-b63a65d3ed69.png" />
 <img align="left" title="Dapper" alt="Dapper" width="44px" src="https://user-images.githubusercontent.com/54556157/91332533-ffdd5600-e7d4-11ea-827d-2d2203036141.png" />
