@@ -78,7 +78,7 @@
 
 <img align="left" alt="Qupipab Github Stats" src="https://github-readme-stats.vercel.app/api?username=Qupipab&title_color=DC143C&icon_color=B22222&bg_color=fff6f6&hide=stars&show_icons=true&hide_border=true&count_private=true" />
 
-<img align="left" alt="Qupipab Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qupipab&title_color=DC143C&bg_color=fff6f6&layout=compact&hide_border=true&hide=html,css" />
+<img align="left" alt="Qupipab Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qupipab&title_color=DC143C&bg_color=fff6f6&layout=compact&hide_border=true&hide=html,css,scss" />
 
 <br />
 <br />
